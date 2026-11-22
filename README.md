@@ -19,8 +19,8 @@ A machine learning Jupyter notebook that classifies Iris flower species using a 
 ## Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+  https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git](https://github.com/jayprakashbiswa49-pixel/ML-Algorithm-On-IRIS_Dataset
+   cd ML-Algorithm-On-IRIS_Dataset
    ```
 2. Install the required Python libraries:
    ```bash
